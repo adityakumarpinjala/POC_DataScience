@@ -1,1 +1,1 @@
-Here we have analaysed the Yearly fillings of different Sectors in the US(We have collected data from EDGAR).Due to Huge size of the dataset,iam not attaching the dataset here,but if you go though the Code ,you will get an idea how the analysis carried out here.
+Here we have analaysed the Yearly fillings(CFBS-Cashflow and balance sheet) of different Sectors in the US(We have collected data from EDGAR).Due to Huge size of the dataset,iam not attaching the dataset here,but if you go though the Code ,you will get an idea how the analysis carried out here.
